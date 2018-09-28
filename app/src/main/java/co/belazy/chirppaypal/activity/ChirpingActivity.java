@@ -40,8 +40,8 @@ public class ChirpingActivity extends AppCompatActivity {
 
     Boolean startStopSdkBtnPressed = false;*/
 
-    String APP_KEY = "B1566Cfc75ab3eC1A6Ae137E8";
-    String APP_SECRET = "fBBFA00Db8593Eb5e5fB5df42527B5ddfff03ada61Bfc0EF5a";
+    String APP_KEY = "YOUR_APP_KEY_HERE";
+    String APP_SECRET = "YOUR_APP_SECRET_HERE";
     String token = null;
     String TAG = "Chirping Activity";
 
